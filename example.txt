@@ -1,0 +1,2 @@
+Hi, this is an example text to showcase the process of staging
+a file in the local repository before it is pushed to the remote repository.
